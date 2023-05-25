@@ -85,14 +85,9 @@ The following endpoints are available:
 - `DELETE /api/v1/books/:id`: Delete an existing book by ID.
 
 
-## Presentation
-
-[PPT](https://docs.google.com/presentation/d/1wmuzLwG5qvKy8W1nL5c17geIJTDKmRldkksrYsrwUfE/edit?usp=sharing)
-
-
 ## Authors
 
-- [@snehil-sinha](https://www.github.com/snehil-sinha)
+- [@snehil-sinha](https://github.com/Lord-Lava)
 
 
 ## 🚀 About Me
